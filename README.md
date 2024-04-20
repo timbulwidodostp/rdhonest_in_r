@@ -3,6 +3,8 @@ Honest inference in regression discontinuity designs (RD) Use Package RDHonest W
 
 Honestly and nearly optimally calculate estimators, standard errors and bias-aware CIs Use Package RDHonest With (In) R Software
 
+https://www.youtube.com/watch?v=cKugWVGAC6g
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
